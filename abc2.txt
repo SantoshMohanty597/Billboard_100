@@ -1,7 +1,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 WELCOME TO THE INDIA 3
+=======
+WELCOME TO THE INDIA 2
+>>>>>>> Stashed changes
 =======
 WELCOME TO THE INDIA 2
 >>>>>>> Stashed changes
